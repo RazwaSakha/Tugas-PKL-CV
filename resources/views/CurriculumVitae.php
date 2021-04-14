@@ -7,31 +7,31 @@
     <h1 align=center>CURRICULUM VITAE</h1>
     <!--INFORMASI DATA DIRI-->
         <hr>
-        <b>Informasi Pribadi</b>
+        <b>Personal Information</b>
         <hr>
         <table style="width:50%">
             <!--FOTO-->
-            <img src="storage/fotoku.jpg" align="right" width="104" height="142">
+            <img src="IMG_1691.jpg" align="right" width="104" height="142">
         <tr>
         <th></th>
         <th></th>
         </tr>
         <tr>
-            <td>Nama Lengkap</td>
+            <td>Name</td>
             <td>: Razwa Sakha Pradipa </td>
         </tr>
         <tr>
-            <td>Tempat Tanggal Lahir</td>
-            <td>: Sukabumi, 03 Januari 2004 </td>  
+            <td>Date of birth</td>
+            <td>: Sukabumi, 03 January 2004 </td>  
         </tr>
-            <td>Alamat</td>
+            <td>Address</td>
             <td>: Perumahan Genting puri, Kec.Baros, Kota Sukabumi</td>
         <tr>
             <td>Status</td>
-            <td>: Pelajar</td>
+            <td>: Student</td>
         </tr>
             <tr>
-            <td>NO HP</td>
+            <td>Telp. Number</td>
             <td>: 083805421781</td>
         </tr>
         <tr>
@@ -41,7 +41,7 @@
         </table>
     <!--RIWAYAT PENDIDIKAN FORMAL-->  
             <hr>
-            <b>PENDIDIKAN FORMAL</b>
+            <b>Personal Education</b>
             <hr>
                 <table style="width:80%">
             <tr>
@@ -50,7 +50,7 @@
             </tr>
             <tr>
                 <td>2019-2023</td>
-                <td>SMK Negeri 2 Sukabumi </td>
+                <td>SMKN 2 Sukabumi </td>
             </tr>
             <tr>
                 <td>2016-2019</td>
@@ -65,7 +65,7 @@
             </table>
     <!-- RIWAYAT ORGANISASI-->
                             <hr>
-                            <b>ORGANISASI</b><hr>
+                            <b>ORGANIZATION</b><hr>
                             <table style="width:180%">
                         <tr>
                         <th></th>
@@ -78,10 +78,10 @@
                         </table>
     <!--KEAHLIAN YANG DIMILIKI-->                  
                             <hr>
-                            <b>KEAHLIAN</b><hr>
-                        Merakit Komputer<br>
-                        Desain Grafis: CorelDraw<br>
+                            <b>SKILLS</b><hr>
+                        Building Computer<br>
+                        Graphic Desain: CorelDraw<br>
                         Video Editting: Adobe Premiere <br>
-    <a href="indeks.html">KEMBALI KE INDEKS</a><br>
+    <a href="indeks.html">BACK TO INDEX</a><br>
     </body>
 </html>

@@ -14,5 +14,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('CurriculumVitae');
+    return view('WebCovid');
+});
+
+Route::get('/vaksinasi', function () {
+    return view('vaksinasi');
+});
+
+Route::get('/WebCovid', function () {
+    return view('WebCovid');
 });
